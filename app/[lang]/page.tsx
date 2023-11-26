@@ -79,8 +79,6 @@ export default async function Home({
           locale={locale}
           posts={posts.filter((_post, index) => index > 0 && index < 3)}
         />
-
-        {/* ---@ts-expect-error Async Server Component */}
         <CTACard locale={locale} />
         <PostCard locale={locale} reverse post={posts[3]} />
 
