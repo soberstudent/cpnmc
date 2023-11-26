@@ -73,7 +73,7 @@ export default async function Home({
       <main className="space-y-10">
         <HeroCard />
 
-        <CTASECTION />
+         /*<CTASECTION />*/
         <PostCard locale={locale} post={posts[0]} />
         <CategoryList locale={locale} />
         <PostList
