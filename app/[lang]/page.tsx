@@ -71,14 +71,14 @@ export default async function Home({
     <PaddingContainer>
       <main className="space-y-10">
         <HeroCard />
-
-         /*<CTASECTION />*/
         <PostCard locale={locale} post={posts[0]} />
         <CategoryList locale={locale} />
         <PostList
           locale={locale}
           posts={posts.filter((_post, index) => index > 0 && index < 3)}
         />
+
+        {/* ---@ts-expect-error Async Server Component */}
         <CTACard locale={locale} />
         <PostCard locale={locale} reverse post={posts[3]} />
 
