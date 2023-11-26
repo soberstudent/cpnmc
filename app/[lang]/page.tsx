@@ -1,5 +1,4 @@
 import HeroCard from '@/components/elements/HeroSecion';
-import CTASECTION from '@/components/elements/cta-Section';
 import CTACard from '@/components/elements/cta-card';
 import CategoryList from '@/components/elements/Catagories';
 import PaddingContainer from '@/components/layout/padding-container';
