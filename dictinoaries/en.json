@@ -1,0 +1,37 @@
+{
+  "navigation": {
+    "links": {
+      "school-department": "school department",
+      "maoistcenter": "maoistcenter",
+      "experience": "Experiences",
+      "index": "Home",
+      "about": "About"
+    }
+  },
+  "MaoistCentre": {
+    "links": {
+      "biography": "about us",
+      "leadership": "leadership",
+      "activity": "activity",
+      "about": "About Us"
+    }
+  },
+  "buttons": {
+    "readMore": "Read More"
+  },
+  "ctaCard": {
+    "title": "Girirajmani Pokharel",
+    "description": "Let's go on the journey of understanding ourselves and understanding our surroundings..",
+    "button": "Sign Up",
+    "placeholder": "Write your email.",
+    "subscriberText1": "Join our",
+    "subscriberText2": "subscribers now!"
+  },
+  "footer": {
+    "siteName": "Giriraj Mani Pokharel",
+    "description": "Former Health & population,Education,science & technology Minister. Leader-Maoist Center. ",
+    "rightsText": "Giriraj Mani Pokharel©",
+    "creatorText": "Created with ❤️ by",
+    "currentlyAtText": "Currently at"
+  }
+}

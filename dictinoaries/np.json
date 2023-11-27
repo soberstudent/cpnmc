@@ -1,0 +1,37 @@
+{
+  "navigation": {
+    "links": {
+      "school-department": "स्कुल बिभाग",
+      "maoistcenter": "नेकपा माओवादी केन्द्र",
+      "experience": "Experiences",
+      "index": "गृह पृष्ठ",
+      "about": "हाम्रो बारे"
+    }
+  },
+  "MaoistCentre": {
+    "links": {
+      "biography": "परिचय",
+      "activity": "गतिबिधि",
+      "committee": "केन्द्रिय समिति",
+      "about": "About"
+    }
+  },
+  "buttons": {
+    "readMore": "थप पढ्नुहोस्"
+  },
+  "ctaCard": {
+    "title": "गिरिराजमणि पोखरेल",
+    "description": "आफूलाई बुझ्ने र आफ्नो परिवेशलाई बुझ्ने यात्रामा अघि बढौं ।",
+    "button": "साइन अप",
+    "placeholder": "आफ्नो इमेल लेख्नुहोस्",
+    "subscriberText1": "हाम्रो सामेल हुनुहोस्",
+    "subscriberText2": "सदस्यहरू!!"
+  },
+  "footer": {
+    "siteName": " गिरिराजमणि पोखरेल",
+    "description": "उपमहासचिव, केन्द्रीय पार्टी स्कूल विभाग प्रमुख तथा  सम्पर्क समन्वय प्रदेश समिति इन्चार्ज नेपाल कम्युनिष्ट पार्टी (माओवादी केन्द्र) पूर्व शिक्षा, विज्ञान, प्रविधि, स्वास्थ्य, जनसंख्या मन्त्री संविधानसभा सदस्य संस्थापक अध्यक्ष अधारशिला ",
+    "rightsText": "गिरिराजमणि पोखरेल ©",
+    "creatorText": "Erstellt mit ❤️ von",
+    "currentlyAtText": "Derzeit in"
+  }
+}
